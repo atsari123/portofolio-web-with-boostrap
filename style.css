@@ -1,0 +1,31 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #f5f7f8;
+}
+
+#skill {
+  background-color: #f5f7f8;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+  color: black;
+  cursor: pointer;
+}
+
+section {
+  padding-top: 10rem;
+}
+
+#contact .container {
+  margin-bottom: 50px;
+}
+
+footer {
+  background-color: #f4ce14;
+  padding: 8px;
+  margin-top: 10px;
+  text-align: center;
+}
